@@ -1,3 +1,3 @@
-Feature 1
-Feature 2
-Feature 3
+new Feature 1
+new Feature 2
+new Feature 3
